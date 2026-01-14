@@ -1,6 +1,6 @@
 # BLINK-Twice: *You see, but you do not observe.* <br> A Reasoning Benchmark on Visual Perception
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-D%26B_Track-blue.svg)](https://nips.cc/)
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-D%26B_Track-blue.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/121522)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.09361-b31b1b.svg)](https://arxiv.org/abs/2510.09361)
 [![Dataset](https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffd21e.svg)](https://huggingface.co/datasets/PicoTrex/BLINK-Twice)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -97,4 +97,5 @@ If you find this project useful in your research, please cite our paper:
   year={2025}
 }
 ```
+
 
