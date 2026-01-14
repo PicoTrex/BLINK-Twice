@@ -35,7 +35,7 @@ As illustrated in the figure above, **BLINK-Twice incorporates three key aspects
   <strong>Overview of BLINK-Twice Dataset: (a) Distribution and examples of visual challenges; (b) Pipeline for automatic adversarial sample generation; (c) Reasoning chain annotation. </strong>
 </p>
 
-The **BLINK-Twice** dataset contains **345 challenging base images** filtered from over 650 initial samples[cite: 118, 119]. To ensure the benchmark truly tests reasoning, we rigorously curated images across **7 types of visual challenges**:
+The **BLINK-Twice** dataset contains **345 challenging base images** filtered from over 650 initial samples. To ensure the benchmark truly tests reasoning, we rigorously curated images across **7 types of visual challenges**:
 
 1.  **Visual Misleading:** Errors in object recognition caused by coincidental alignments of color, shape, or composition (e.g., a swan's head mistaken for a water splash).
 2.  **Visual Dislocation:** Spatial coincidences between foreground and background elements create positional ambiguity (e.g., foliage appearing as hair).
@@ -97,3 +97,4 @@ If you find this project useful in your research, please cite our paper:
   year={2025}
 }
 ```
+
